@@ -1,3 +1,6 @@
+/**
+*  Thanks sgarner  https://github.com/SortableJS/Vue.Draggable/issues/379#issuecomment-480109531
+*/
 declare module 'vuedraggable' {
   import Vue, { ComponentOptions } from 'vue';
 
